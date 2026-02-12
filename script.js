@@ -1,4 +1,3 @@
-
 const spots = [
   {
     name: "桂浜",
